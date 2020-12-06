@@ -10,5 +10,5 @@ export class AppController implements IAppController {
 
   async init() {
     await createConnection();
-  }
+  } 
 }
